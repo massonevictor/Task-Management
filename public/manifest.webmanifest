@@ -1,0 +1,17 @@
+{
+  "name": "Projetos locais",
+  "short_name": "Projetos",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#6366f1",
+  "description": "Gerenciador de projetos local-first com IndexedDB.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
